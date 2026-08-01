@@ -1,0 +1,47 @@
+SRIMATHI K
+Phone 6369025556 | Envelope srimathik273@gmail.com
+LINKEDIN srimathi-kandhasamy-395ba2281 | Github SrimathiKandasamy-27 | CODE SRIMATHIKANDASAMY
+Career Objective
+Aspiring engineering graduate skilled in Full-Stack Web and Mobile Application Development with strong interest in Artificial
+Intelligence, Machine Learning, and Deep Learning. Seeking opportunities to apply technical expertise and problem-solving skills in a
+dynamic organization while contributing to innovative projects and continuous learning.
+Education
+Kongu Engineering College 2023 – 2027
+B.Tech Artificial Intelligence and Machine Learning | CGPA: 8.26 Tamil Nadu
+A.K.T Academy Matric Hr. Sec. School 2023
+Higher Secondary Education | Percentage: 90.833% Tamil Nadu
+Skills
+Languages: Java, JavaScript, C
+Web Development: HTML, CSS, Tailwind CSS, Node.js, React.js
+Database: MySQL, Firebase
+Mobile Development: React Native
+Tools: Git, GitHub, VS Code
+Core Concepts: Data Structures , DBMS
+Professional Experience
+Outliers United 2024 – Present
+Freelance Project Manager & Full Stack Developer Remote
+Delivered 3+ client projects with 100% on-time delivery, developed responsive full-stack websites and mobile applications, conducted
+client reviews and requirement analysis, and ensured cross-platform compatibility and performance optimization.
+Projects
+CASHMAN – Personal Finance Manager 2025
+Tech Stack: React Native, React.js, Firebase, Tailwind CSS, JavaScript
+Developed a personal finance management application for tracking income, expenses, savings goals, and transaction history. Implemented
+real-time data synchronization using Firebase and interactive financial insights to help users manage their budgets effectively.
+ARAM EYECARE – E-Commerce Platform 2025
+Tech Stack: React.js, Firebase, Tailwind CSS, JavaScript
+Built a responsive e-commerce platform for an optical store featuring product catalog management, shopping cart functionality, order
+tracking, and an admin dashboard. Enhanced customer engagement and streamlined online shopping experiences.
+V ANIKAN – Direct Market Access App 2024
+Tech Stack: React Native, React.js, Firebase, Tailwind CSS, JavaScript
+Developed a mobile application connecting farmers directly with consumers, eliminating intermediaries in agricultural sales. Integrated
+Firebase Authentication, Firestore Database, and real-time order management to support seamless transactions.
+PEDESTRIAN DETECTION FOR AUTONOMOUS VEHICLES 2025
+Tech Stack: Python, TensorFlow, OpenCV, CNN, Deep Learning, NumPy
+Implemented a deep learning-based pedestrian detection system using Convolutional Neural Networks (CNNs) for autonomous vehicle
+environments. Trained and evaluated the model on image datasets to improve pedestrian recognition accuracy and enhance road safety.
+Awards
+2nd Prize – BYTS India Hackathon (Apr 2025)
+3rd Prize – KEC Hackathon 25 (Mar 2025)
+3rd Prize – AI Hackathon (Hackspere) (Feb 2025)
+Areas of Interest
+• Problem Solving • Machine Learning • DBMS
